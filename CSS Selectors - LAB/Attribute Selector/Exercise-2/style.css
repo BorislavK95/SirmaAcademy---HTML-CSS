@@ -1,0 +1,10 @@
+a[href="https://google.bg"] {
+    color: green;
+    display: block; 
+    font-size: 2em;
+}
+
+a[href="https://facebook.com"] {
+    color: rgb(155, 129, 3);
+    font-size: 2em;
+}

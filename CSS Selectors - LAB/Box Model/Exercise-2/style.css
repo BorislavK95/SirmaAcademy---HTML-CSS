@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+
+/* The total width of element is 270px. We focus on horizontal values and calculate, we do not sum vertical value when looking for width:
+
+Content: 200px.
+Left padding + Right padding = 40px
+Left border + Right border = 10px
+Left  margin + Right margin = 20px

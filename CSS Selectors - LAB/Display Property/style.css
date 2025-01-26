@@ -1,0 +1,16 @@
+.block {
+border-style: groove;
+background-color: green;
+}      
+
+.inline {
+    display: inline;
+    border-style: groove;
+    background-color: red;
+}
+
+.inline-block {
+    display: inline-block;
+    border-style: groove;
+    background-color: yellow;
+}

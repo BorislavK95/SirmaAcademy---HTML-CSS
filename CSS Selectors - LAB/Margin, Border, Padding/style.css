@@ -1,0 +1,6 @@
+.box-model {
+    background-color: blueviolet;
+    border: 20px;
+    margin: 30px;
+    padding: 25px;
+}

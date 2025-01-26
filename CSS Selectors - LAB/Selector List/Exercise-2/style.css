@@ -1,0 +1,8 @@
+h1, p {
+    font-weight: bold;
+    color: brown;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 5px;
+    margin:0px 200px 0px 200px;
+}

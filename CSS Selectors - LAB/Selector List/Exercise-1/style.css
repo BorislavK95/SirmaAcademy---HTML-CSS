@@ -1,0 +1,7 @@
+h1, p, div {
+    border-style: double;
+    margin-bottom:20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
